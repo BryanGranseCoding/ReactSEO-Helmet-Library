@@ -244,3 +244,5 @@ export interface SEOProps {
 - [React Helmet Async Documentation](https://github.com/staylor/react-helmet-async)
 - [Open Graph Protocol](https://ogp.me/)
 - [Twitter Cards Documentation](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+
+[Bryan Granse Coding](https://github.com/BryanGranseCoding)
